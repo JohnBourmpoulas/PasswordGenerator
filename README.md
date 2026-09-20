@@ -79,9 +79,3 @@ Generator/
 
 This project is licensed under the MIT License. See the
 [LICENSE](LICENSE) file for details.
-
-## Author
-
-**John Bourmpoulas**
-
-GitHub: [@JohnBourmpoulas](https://github.com/JohnBourmpoulas)
